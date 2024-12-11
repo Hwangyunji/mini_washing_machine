@@ -1,0 +1,1 @@
+# mini_washing_machine
